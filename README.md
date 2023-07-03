@@ -23,11 +23,13 @@ The script InstallPackages.jl can be used to install packages (by uncommenting t
 |4| Fig5.jl  |   ODENonlinear_PoissonNoise_PoissonFit  |  
 |5| Fig6.jl |    PDE_PoissonNoise_PoissonFit | 
 |6| Fig7.jl |   Coverage_ODELinear_NormalNoise_NormalFit_MLE  | 
-|6| FigS1.jl |  PDE_ComparisonofAnalyticalandNumericalSolutions  | 
-|6| FigS2.jl |  FullLikelhood_ODELinear_NormalNoise_NormalFit   | 
-|6| FigS4.jl |    Coverage_ODELinear_NormalNoise_NormalFit_FullLikelihood | 
-|6| FigS5.jl | ODElotkavolterra_PoissonNoise_PoissonFit    | 
-|6| FigS6.jl |  ODElotkavolterra_PoissonNoise_NormalFit   | 
-|6| FigS7.jl |   DifferenceEquation_PoissonNoise_PoissonFit  | 
-|6| FigS8.jl |  Coverage_ODELinear_LogNormalNoise_LogNormalFit_MLE  | 
-|6| FigS9.jl | Coverage_ODELinear_LogNormalNoise_LogNormalFit_FullLikelihood   | 
+|7| FigS1.jl |  PDE_ComparisonofAnalyticalandNumericalSolutions  | 
+|8| FigS2.jl |  FullLikelhood_ODELinear_NormalNoise_NormalFit   | 
+|9| FigS4.jl |    Coverage_ODELinear_NormalNoise_NormalFit_FullLikelihood | 
+|10| FigS5.jl | ODElotkavolterra_PoissonNoise_PoissonFit    | 
+|11| FigS6.jl |  ODElotkavolterra_PoissonNoise_NormalFit   | 
+|12| FigS7.jl |   DifferenceEquation_PoissonNoise_PoissonFit  | 
+|13| FigS8.jl |  Coverage_ODELinear_LogNormalNoise_LogNormalFit_MLE  | 
+|14| FigS9.jl | Coverage_ODELinear_LogNormalNoise_LogNormalFit_FullLikelihood   | 
+
+
