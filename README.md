@@ -9,11 +9,10 @@ Please contact Ryan Murphy for any queries or questions.
 Code developed and run in July 2023 using:
 
 - Julia Version  1.7.2 (see https://julialang.org/downloads/ )
-- Julia packages: Plots, LinearAlgebra, NLopt, .Threads, Interpolations, Distributions, Roots, LaTeXStrings, DifferentialEquations, CSV, DataFrames, Parsers
-
+- Julia packages: Plots, LinearAlgebra, NLopt, .Threads, Interpolations, Distributions, Roots, LaTeXStrings, DifferentialEquations, CSV, DataFrames, Parsers, MethodOfLines, Random, StatsPlots, StructuralIdentifiability, SpecialFunctions.
 
 ## Guide to using the code
-The script InstallPackages.jl can be used to install packages (by uncommenting the relevant lines). There are five scripts summarised in the table below.
+The script InstallPackages.jl can be used to install packages (by uncommenting the relevant lines). There scripts are summarised in the table below.
 
 
 | | Script        | Short description           | 
@@ -22,9 +21,9 @@ The script InstallPackages.jl can be used to install packages (by uncommenting t
 |2| Fig2.jl      |  ODELinear_LogNormalNoise_NormalFit   |  
 |3|  Fig4.jl |   ODELinear_LogNormalNoise_LogNormalFit  |  
 |4| Fig5.jl  |   ODENonlinear_PoissonNoise_PoissonFit  |  
-|5| Fig6.jl |    PDELinearReactionsCentre_PoissonNoise_PoissonFit | 
+|5| Fig6.jl |    PDE_PoissonNoise_PoissonFit | 
 |6| Fig7.jl |   Coverage_ODELinear_NormalNoise_NormalFit_MLE  | 
-|6| FigS1.jl |  PDELinearReaction_ComparisonofAnalyticalandNumericalSolutions  | 
+|6| FigS1.jl |  PDE_ComparisonofAnalyticalandNumericalSolutions  | 
 |6| FigS2.jl |  FullLikelhood_ODELinear_NormalNoise_NormalFit   | 
 |6| FigS4.jl |    Coverage_ODELinear_NormalNoise_NormalFit_FullLikelihood | 
 |6| FigS5.jl | ODElotkavolterra_PoissonNoise_PoissonFit    | 
