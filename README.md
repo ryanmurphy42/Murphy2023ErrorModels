@@ -24,12 +24,12 @@ The script InstallPackages.jl can be used to install packages (by uncommenting t
 |5| Fig6.jl | Figure 6  | PDE_PoissonNoise_PoissonFit | 
 |6| Fig7.jl | Figures 7-11 | Coverage_ODELinear_NormalNoise_NormalFit_MLE  | 
 |7| FigS1.jl | Supplementary Figure S1 | PDE_ComparisonofAnalyticalandNumericalSolutions  | 
-|8| FigS2.jl | Supplementary Figure S2-3 | FullLikelhood_ODELinear_NormalNoise_NormalFit   | 
+|8| FigS2.jl | Supplementary Figure S2-S3 | FullLikelhood_ODELinear_NormalNoise_NormalFit   | 
 |9| FigS4.jl | Supplementary Figure S4 |  Coverage_ODELinear_NormalNoise_NormalFit_FullLikelihood | 
 |10| FigS5.jl |Supplementary Figure S5 | ODElotkavolterra_PoissonNoise_PoissonFit    | 
 |11| FigS6.jl |Supplementary Figure S6 | ODElotkavolterra_PoissonNoise_NormalFit   | 
 |12| FigS7.jl |Supplementary Figure S7 |  DifferenceEquation_PoissonNoise_PoissonFit  | 
-|13| FigS8.jl | Supplementary Figures S8-10 | Coverage_ODELinear_LogNormalNoise_LogNormalFit_MLE  | 
+|13| FigS8.jl | Supplementary Figures S8-S10 | Coverage_ODELinear_LogNormalNoise_LogNormalFit_MLE  | 
 |14| FigS11.jl |Supplementary Figure S11 |Coverage_ODELinear_LogNormalNoise_LogNormalFit_FullLikelihood   | 
 
 
