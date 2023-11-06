@@ -1,9 +1,8 @@
-# Murphy et al. (2023)  Implementing measurement error models in a likelihood-based framework for estimation, identifiability analysis, and prediction in the life sciences
+# Murphy et al. (2023)  Implementing measurement error models with mechanistic mathematical models in a likelihood-based framework for estimation, identifiability analysis, and prediction in the life sciences
 
-Preprint coming soon to arXiv
-Code will be uploaded by 07/07/2023
+Preprint: https://arxiv.org/abs/2307.01539
 
-This repository holds key Julia code used to generate figures in the the manuscript.
+This repository holds the key Julia code used to generate figures in the manuscript.
 
 Please contact Ryan Murphy for any queries or questions.
 
@@ -13,7 +12,7 @@ Code developed and run in July 2023 using:
 - Julia packages: Plots, LinearAlgebra, NLopt, .Threads, Interpolations, Distributions, Roots, LaTeXStrings, DifferentialEquations, CSV, DataFrames, Parsers, MethodOfLines, Random, StatsPlots, StructuralIdentifiability, SpecialFunctions.
 
 ## Guide to using the code
-The script InstallPackages.jl can be used to install packages (by uncommenting the relevant lines). There scripts are summarised in the table below.
+The script InstallPackages.jl can be used to install packages (by uncommenting the relevant lines). Scripts are summarised in the table below.
 
 
 | | Script        | Figures in manuscript | Short description           | 
