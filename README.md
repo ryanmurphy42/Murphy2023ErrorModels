@@ -1,4 +1,4 @@
-# Murphy et al. (2023)  Implementing measurement error models with mechanistic mathematical models in a likelihood-based framework for estimation, identifiability analysis, and prediction in the life sciences
+# Murphy et al. (2024)  Implementing measurement error models with mechanistic mathematical models in a likelihood-based framework for estimation, identifiability analysis, and prediction in the life sciences
 
 Preprint: https://arxiv.org/abs/2307.01539
 
