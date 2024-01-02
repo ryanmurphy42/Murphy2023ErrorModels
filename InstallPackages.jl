@@ -21,7 +21,7 @@
 # Pkg.add("StatsPlots")
 # Pkg.add("StructuralIdentifiability")
 # Pkg.add("SpecialFunctions")
-
+# Pkg.add("PyPlot")
 
 
 
