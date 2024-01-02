@@ -8,7 +8,6 @@
 # Pkg.add("Plots")
 # Pkg.add("LinearAlgebra")
 # Pkg.add("NLopt")
-# Pkg.add(".Threads")
 # Pkg.add("Interpolations")
 # Pkg.add("Distributions")
 # Pkg.add("Roots")
