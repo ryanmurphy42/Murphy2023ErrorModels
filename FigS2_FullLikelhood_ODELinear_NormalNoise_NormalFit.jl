@@ -212,7 +212,7 @@ savefig(p0scatter,filepath_save[1] * "Fig0scatter" * ".pdf")
         maximum(fullloglikelihood)
 
         # contour plot with confidence level thresholds for df=2
-        figcontourdf2 = contour(r1rangefull, r2rangefull, fullloglikelihood', levels=[-6.91,-4.61,-3.00,0],clims=(-10,0),xlabel=L"r_{1}", ylabel=L"r_{2}", fill=true,color=:grays,colorbar_title=L"\hat{\ell}(\theta \ | \ y_{1:I}^{o})")
+        figcontourdf2 = contour(r1rangefull, r2rangefull, fullloglikelihood', levels=[-6.91,-4.61,-3.00,0],clims=(-10,0),xlabel=L"r_{1}", ylabel=L"r_{2}", fill=true,colorbar_title=L"\hat{\ell}(\theta \ | \ y_{1:I}^{o})")
         figcontourdf2 = scatter(figcontourdf2,[r1mle],[r2mle],ms=10,color=:black)
         figcontourdf2 = scatter(figcontourdf2,[r1],[r2],ms=10,legend=false,titlefont=fnt, guidefont=fnt, tickfont=fnt, legendfont=fnt,msw=0,color=:green2)
         display(figcontourdf2)
